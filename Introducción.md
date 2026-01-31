@@ -4,7 +4,7 @@
 
 ## Características Principales.
 
-- **Sintaxis Limpia**: a diferencia de otros lenguajes que usan **llaves ({})** o **puntos y coma (;)**, ***Python utiliza la indentación*** (espacios en blanco) para definir bloques de código. Esto obliga a que el código sea ordenado por naturaleza.
+- **Sintaxis Limpia**: a diferencia de otros lenguajes que usan **llaves {}** o **puntos y coma ;**, ***Python utiliza la indentación*** (espacios en blanco) para definir bloques de código. Esto obliga a que el código sea ordenado por naturaleza.
 
 - **Tipado Dinámico**: no necesitas ***declarar si una variable es un número o un texto***; Python lo deduce por ti.
 
