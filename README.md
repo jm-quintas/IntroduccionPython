@@ -7,4 +7,5 @@
 
 | Unidad | Programa | Repositorio |  
 | :----: | :----: | :----: |
-| 1 | Primeros pasos con Python | [Repositorio]() |
+| 1 | Introducción| [Repositorio]() |  
+| 2 | Primeros pasos en Python | [Repositorio]() |
