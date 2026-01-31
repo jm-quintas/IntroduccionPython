@@ -5,6 +5,6 @@
 - **Especialización en programación en Python**.
 - Profesor: **Dr. Charles Russell Severance**.
 
-| Unidad | Programa | [Repositorio]() |  
+| Unidad | Programa | Repositorio |  
 | :----: | :----: | :----: |
 | 1 | Primeros pasos con Python | [Repositorio]() |
