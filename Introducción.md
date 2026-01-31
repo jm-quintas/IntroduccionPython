@@ -11,3 +11,14 @@
 - **Multiparadigma**: permite programar de forma ***orientada a objetos***, ***imperativa*** o ***funcional***.
 
 - **Baterías Incluidas**: se dice esto porque su ***librería estándar es inmensa***, permitiéndote hacer casi de todo sin instalar nada externo.
+
+## ¿Para qué se usa?.
+
+- **Ciencia de Datos e IA**: es el rey indiscutible gracias a bibliotecas como ***Pandas***, ***NumPy*** y ***TensorFlow***.
+
+- **Desarrollo Web**: frameworks como ***Django*** y ***Flask*** permiten crear sitios robustos rápidamente.
+
+- **Automatización/Scripting**: ideal para tareas repetitivas, mover archivos o "scraping" de webs.
+
+- **Educación**: es el estándar para aprender a programar por su curva de aprendizaje suave.
+  
