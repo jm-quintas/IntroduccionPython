@@ -1,0 +1,1 @@
+# Visión general del Hardware.
