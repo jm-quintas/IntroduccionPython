@@ -8,4 +8,4 @@
 | Unidad | Programa | Repositorio |  
 | :----: | :----: | :----: |
 | 1 | Introducción| [Repositorio](https://github.com/jm-quintas/PythonforEverybody/blob/main/Introducci%C3%B3n.md) |  
-| 2 | Primeros pasos en Python | [Repositorio]() |
+| 2 | Visión general del Hardware | [Repositorio]() |
