@@ -8,4 +8,4 @@
 | Unidad | Programa | Repositorio |  
 | :----: | :----: | :----: |
 | 1 | Introducción| [Repositorio](https://github.com/jm-quintas/PythonforEverybody/blob/main/Introducci%C3%B3n.md) |  
-| 2 | Visión general del Hardware | [Repositorio]() |
+| 2 | Visión general del Hardware | [Repositorio](https://github.com/jm-quintas/PythonforEverybody/blob/main/Visi%C3%B3n%20general%20del%20Hardware.md) |
