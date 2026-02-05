@@ -1,8 +1,9 @@
 # Visión general del Hardware.
 
+# Unidad Central de Proceso.
 La **Unidad Central de Procesamiento (CPU)**, a menudo llamada el "cerebro" de la computadora, ***es el componente principal de cualquier dispositivo electrónico que interpreta las instrucciones y procesa los datos de los programas***. Si estuviéramos comparando una computadora con un cuerpo humano, la ***CPU sería el sistema nervioso central: recibe señales, toma decisiones y envía órdenes a todas las demás partes***.
 
-# Componentes Principales de la CPU.
+## Componentes Principales de la CPU.
 
 Para entender cómo funciona, es útil dividirla en sus ***tres piezas fundamentales***: 
 
