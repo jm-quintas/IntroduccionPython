@@ -54,25 +54,25 @@ Podemos agruparlos según la forma en que interactuamos con ellos:
 
 Son los más comunes y se basan en la pulsación de teclas o caracteres.
 
-- Teclado: El estándar para introducir texto. Existen mecánicos, de membrana, ergonómicos y virtuales.
+- ***Teclado***: El estándar para introducir texto. Existen mecánicos, de membrana, ergonómicos y virtuales.
 
 ***2. Dispositivos Apuntadores (Posicionamiento).***
 
 Permiten desplazar un cursor por la pantalla y seleccionar elementos.
 
-- Mouse (Ratón): Tradicionalmente óptico o láser.
+- ***Mouse (Ratón)***: Tradicionalmente óptico o láser.
 
-- Touchpad: Superficie táctil integrada en laptops.
+- ***Touchpad***: Superficie táctil integrada en laptops.
 
-- Lápiz óptico / Tableta digitalizadora: Esencial para diseñadores y artistas gráficos para dibujar con precisión.
+- ***Lápiz óptico / Tableta digitalizadora***: Esencial para diseñadores y artistas gráficos para dibujar con precisión.
 
 ***3. Dispositivos de Audio y Video.***
 
 Capturan señales multimedia y las convierten en datos digitales.
 
-- Micrófono: Transforma ondas sonoras en señales eléctricas procesables.
+- ***Micrófono***: Transforma ondas sonoras en señales eléctricas procesables.
 
-- Cámara Web (Webcam): Captura video y fotos en tiempo real.
+- ***Cámara Web (Webcam)***: Captura video y fotos en tiempo real.
 
-- Escáner: Convierte documentos físicos o fotografías en archivos digitales.
+- ***Escáner***: Convierte documentos físicos o fotografías en archivos digitales.
 
