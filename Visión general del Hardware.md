@@ -90,3 +90,44 @@ Capturan datos de forma automática o mediante contacto directo.
 
 Su ***función principal es proyectar o mostrar los resultados*** del procesamiento de datos para que el usuario pueda entenderlos. Básicamente, transforman el lenguaje binario (ceros y unos) en señales que los humanos podemos percibir: imágenes, sonidos o texto impreso.
 
+## Tipos de Dispositivos de Salida.
+
+Podemos clasificarlos según el tipo de información que entregan:
+
+***1. Salida Visual***.
+
+Son los encargados de mostrar datos de forma gráfica y en tiempo real.
+
+- ***Monitor***: El dispositivo principal. Ha evolucionado desde los voluminosos tubos de rayos catódicos (CRT) hasta las pantallas LED, OLED y 4K actuales.
+
+- ***Proyector***: Ideal para mostrar información a grandes grupos, proyectando la luz sobre una superficie plana.
+
+***2. Salida de Audio***.
+
+Convierten las señales eléctricas en ondas sonoras.
+
+- ***Altavoces (Parlantes)***: Reproducen sonidos, música y alertas del sistema.
+
+- ***Auriculares***: Permiten una salida de audio privada, evitando que otras personas escuchen el contenido.
+
+***3. Salida de Impresión (Hardware Físico)***.
+
+Traducen los datos digitales en un soporte físico, generalmente papel.
+
+- ***Impresora:*** Puede ser de inyección de tinta, láser o térmica.
+
+- ***Plotter***: Un dispositivo especializado para el dibujo técnico y planos arquitectónicos de gran formato.
+
+- ***Impresora 3D***: Una evolución moderna que crea objetos físicos tridimensionales a partir de un diseño digital.
+
+
+# Dispositivos de Entrada/Salida (Híbridos).
+
+Existen componentes que cumplen ambas funciones simultáneamente, permitiendo un flujo de datos bidireccional:
+
+- ***Pantallas Táctiles***: Reciben la presión de tus dedos (entrada) y muestran la interfaz (salida).
+
+- ***Módems/Routers***: Envían y reciben datos a través de la red.
+
+- ***Gafas de Realidad Virtual (VR)***: Envían datos de movimiento de la cabeza al sistema y muestran imágenes en los visores.
+
