@@ -156,13 +156,3 @@ Para que algo suceda en tu pantalla, los datos deben viajar a través de una jer
 
 - ***Resultado***: Los cambios se mantienen en la RAM hasta que decides guardarlos de nuevo en el almacenamiento permanente o cierras el programa.
 
-## Tipos de Memoria Principal.
-
-Aunque solemos llamar a todo "RAM", técnicamente existen dos tipos principales que conviven en el sistema:
-
-
-
-| Tipo | Siglas | Función Principal |
-| :-----: | :-----: | :-----: |
-| Dinámica | DRAM | "Es la que compramos en módulos (DDR4, DDR5). Es económica y densa, pero necesita ""refrescarse"" constantemente." |
-Estática,SRAM,Mucho más rápida y cara. Se usa principalmente para la memoria Caché dentro del procesador.
