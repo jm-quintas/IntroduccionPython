@@ -1,7 +1,9 @@
 # Visión general del Hardware.
 
+
 # Unidad Central de Proceso.
 La **Unidad Central de Procesamiento (CPU)**, a menudo llamada el "cerebro" de la computadora, ***es el componente principal de cualquier dispositivo electrónico que interpreta las instrucciones y procesa los datos de los programas***. Si estuviéramos comparando una computadora con un cuerpo humano, la ***CPU sería el sistema nervioso central: recibe señales, toma decisiones y envía órdenes a todas las demás partes***.
+
 
 ## Componentes Principales de la CPU.
 
@@ -26,6 +28,7 @@ La CPU no descansa; trabaja en un ciclo constante conocido como Fetch-Decode-Exe
 
 - **Escritura (Write-back)**: guarda el resultado final en la memoria.
 
+
 ## Características que definen su potencia.
 
 No todas las CPU son iguales. Su rendimiento depende principalmente de:
@@ -37,4 +40,39 @@ No todas las CPU son iguales. Su rendimiento depende principalmente de:
 - **Memoria Caché**: una memoria ultra rápida integrada en el chip para que la CPU no tenga que esperar a la RAM (que es más lenta).
 
 - **Dato curioso**: aunque solemos llamar "CPU" a la torre o caja de la computadora, técnicamente la CPU es solo el pequeño cuadrado de silicio que va montado en la placa base.
+
+
+# Dispositivos de Entrada.
+
+Son todos aquellos ***componentes de hardware que permiten introducir datos, comandos o señales desde el mundo exterior hacia una computadora*** o sistema informático para que estos sean procesados.
+
+## Clasificación de los Dispositivos de Entrada.
+
+Podemos agruparlos según la forma en que interactuamos con ellos:
+
+***1. Dispositivos de Texto y Comandos.***
+
+Son los más comunes y se basan en la pulsación de teclas o caracteres.
+
+- Teclado: El estándar para introducir texto. Existen mecánicos, de membrana, ergonómicos y virtuales.
+
+***2. Dispositivos Apuntadores (Posicionamiento).***
+
+Permiten desplazar un cursor por la pantalla y seleccionar elementos.
+
+- Mouse (Ratón): Tradicionalmente óptico o láser.
+
+- Touchpad: Superficie táctil integrada en laptops.
+
+- Lápiz óptico / Tableta digitalizadora: Esencial para diseñadores y artistas gráficos para dibujar con precisión.
+
+***3. Dispositivos de Audio y Video.***
+
+Capturan señales multimedia y las convierten en datos digitales.
+
+- Micrófono: Transforma ondas sonoras en señales eléctricas procesables.
+
+- Cámara Web (Webcam): Captura video y fotos en tiempo real.
+
+- Escáner: Convierte documentos físicos o fotografías en archivos digitales.
 
