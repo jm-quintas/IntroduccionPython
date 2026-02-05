@@ -136,3 +136,32 @@ Existen componentes que cumplen ambas funciones simultáneamente, permitiendo un
 
 La Memoria Principal, también conocida como memoria primaria o interna, es el ***componente de una computadora donde se almacenan temporalmente los datos y programas*** que la unidad central de procesamiento (CPU) está utilizando o procesando en un momento determinado. Si comparamos a la computadora con una oficina, el Disco Duro es el archivador (donde guardas todo a largo plazo) y la Memoria Principal es el escritorio donde pones los papeles en los que estás trabajando justo ahora.
 
+## Características Fundamentales.
+
+La memoria principal se distingue de otros tipos de almacenamiento (como el disco duro) por tres rasgos principales:
+
+- ***Volatilidad***: Es una memoria temporal. Si apagas la computadora o se corta la luz, toda la información guardada en ella se pierde.
+
+- ***Velocidad Extrema***: Es mucho más rápida que un SSD o un disco duro, permitiendo que el procesador acceda a los datos en nanosegundos.
+
+- ***Acceso Aleatorio***: El CPU puede leer o escribir en cualquier celda de memoria con la misma rapidez, sin importar su ubicación física.
+
+## El Ciclo de Funcionamiento.
+
+Para que algo suceda en tu pantalla, los datos deben viajar a través de una jerarquía. La Memoria Principal actúa como el puente crítico:
+
+- ***Carga***: Cuando abres un programa (como el navegador), este se copia desde el almacenamiento permanente (Disco Duro/SSD) hacia la RAM.
+
+- ***Procesamiento***: El procesador (CPU) busca las instrucciones directamente en la RAM.
+
+- ***Resultado***: Los cambios se mantienen en la RAM hasta que decides guardarlos de nuevo en el almacenamiento permanente o cierras el programa.
+
+## Tipos de Memoria Principal.
+
+Aunque solemos llamar a todo "RAM", técnicamente existen dos tipos principales que conviven en el sistema:
+
+
+|:-----:|:-----:|:-----:|
+| Tipo | Siglas | Función Principal |
+Dinámica,DRAM,"Es la que compramos en módulos (DDR4, DDR5). Es económica y densa, pero necesita ""refrescarse"" constantemente."
+Estática,SRAM,Mucho más rápida y cara. Se usa principalmente para la memoria Caché dentro del procesador.
