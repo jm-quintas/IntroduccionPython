@@ -131,3 +131,8 @@ Existen componentes que cumplen ambas funciones simultáneamente, permitiendo un
 
 - ***Gafas de Realidad Virtual (VR)***: Envían datos de movimiento de la cabeza al sistema y muestran imágenes en los visores.
 
+
+# Memoria Principal.
+
+La Memoria Principal, también conocida como memoria primaria o interna, es el ***componente de una computadora donde se almacenan temporalmente los datos y programas*** que la unidad central de procesamiento (CPU) está utilizando o procesando en un momento determinado. Si comparamos a la computadora con una oficina, el Disco Duro es el archivador (donde guardas todo a largo plazo) y la Memoria Principal es el escritorio donde pones los papeles en los que estás trabajando justo ahora.
+
