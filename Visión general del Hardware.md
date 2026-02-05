@@ -76,3 +76,17 @@ Capturan señales multimedia y las convierten en datos digitales.
 
 - ***Escáner***: Convierte documentos físicos o fotografías en archivos digitales.
 
+***4. Dispositivos de Entrada Directa y Sensores.***
+
+Capturan datos de forma automática o mediante contacto directo.
+
+- ***Pantalla táctil***: Funciona como entrada (al tocar) y salida (al mostrar imagen).
+
+- ***Lectores de códigos de barras / QR***: Utilizados en comercios para identificar productos rápidamente.
+
+- ***Lectores biométricos***: Escáneres de huellas dactilares o reconocimiento facial para seguridad.
+
+# Dispositivos de Salidas.
+
+Su ***función principal es proyectar o mostrar los resultados*** del procesamiento de datos para que el usuario pueda entenderlos. Básicamente, transforman el lenguaje binario (ceros y unos) en señales que los humanos podemos percibir: imágenes, sonidos o texto impreso.
+
