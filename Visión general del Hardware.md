@@ -156,3 +156,10 @@ Para que algo suceda en tu pantalla, los datos deben viajar a través de una jer
 
 - ***Resultado***: Los cambios se mantienen en la RAM hasta que decides guardarlos de nuevo en el almacenamiento permanente o cierras el programa.
 
+
+# Memoria secundaria.
+
+La memoria secundaria (también conocida como almacenamiento masivo o auxiliar) es el ***conjunto de dispositivos y soportes de almacenamiento*** que guardan los datos de forma permanente.
+
+A diferencia de la memoria RAM (primaria), que es volátil y "olvida" todo al apagar la computadora, la ***memoria secundaria es la "biblioteca" donde tus archivos, fotos y el propio sistema operativo se quedan guardados a largo plazo***.
+
