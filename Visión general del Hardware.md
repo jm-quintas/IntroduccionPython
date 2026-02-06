@@ -163,3 +163,13 @@ La memoria secundaria (también conocida como almacenamiento masivo o auxiliar) 
 
 A diferencia de la memoria RAM (primaria), que es volátil y "olvida" todo al apagar la computadora, la ***memoria secundaria es la "biblioteca" donde tus archivos, fotos y el propio sistema operativo se quedan guardados a largo plazo***.
 
+## Características Principales.
+
+- ***No Volatilidad***: los datos permanecen grabados aunque no haya corriente eléctrica.
+
+- ***Gran Capacidad***: puede almacenar terabytes de información, mucho más que la RAM.
+
+- ***Velocidad***: es más lenta que la memoria primaria, ya que el procesador no accede a ella directamente, sino a través de canales de entrada/salida.
+
+- ***Costo***: es mucho más económica por gigabyte en comparación con la memoria RAM.
+
