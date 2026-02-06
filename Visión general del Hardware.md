@@ -173,3 +173,30 @@ A diferencia de la memoria RAM (primaria), que es volátil y "olvida" todo al ap
 
 - ***Costo***: es mucho más económica por gigabyte en comparación con la memoria RAM.
 
+
+## Tipos de Dispositivos de Memoria Secundaria.
+
+Podemos clasificarlos según la tecnología que utilizan para grabar los bits:
+
+***1. Almacenamiento Magnético.***
+
+Utilizan campos magnéticos para leer y escribir datos sobre superficies metálicas o plásticas.
+
+- ***Discos Duros (HDD)***: el estándar tradicional. Son mecánicos y usan platos giratorios.
+
+- ***Cintas magnéticas***: usadas mayormente hoy en día para respaldos masivos de empresas debido a su durabilidad.
+
+***2. Almacenamiento de Estado Sólido (Flash).***
+
+No tienen partes móviles, lo que los hace increíblemente rápidos y resistentes.
+
+- ***SSD (Solid State Drive)***: el sucesor del disco duro. Mejora drásticamente la velocidad de arranque de cualquier equipo.
+
+- ***Memorias USB y Tarjetas SD***: portátiles y convenientes para mover archivos.
+
+***3. Almacenamiento Óptico.***
+
+Utilizan un láser para leer "valles" y "montes" en la superficie de un disco.
+
+- ***CD, DVD y Blu-ray***: aunque han perdido popularidad frente a la nube, siguen siendo útiles para distribución de juegos o películas en alta fidelidad.
+
