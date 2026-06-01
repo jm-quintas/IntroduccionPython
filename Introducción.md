@@ -27,3 +27,24 @@ Para entender por qué es tan popular, debemos mirar bajo el capó:
 
 - **Sintaxis Basada en Indentación**: En Python no existen las llaves {} para definir bloques de código (como en Java o JavaScript). Los bloques se definen mediante espacios en blanco o tabulaciones. Esto garantiza que todo el código escrito en Python comparta un estilo visual uniforme.
 
+
+## Arquitectura Básica: Sintaxis y Tipos de Datos.
+
+El diseño de Python busca que el código parezca casi "inglés simplificado" o pseudocódigo.
+
+- **Tipos de Datos Primitivos e Integrados**.
+
+  - *Numéricos*: Enteros (int), decimales (float) y complejos (complex).
+
+  - *Cadenas de Texto*: str (soportan Unicode de forma nativa).
+
+- **Colecciones de Datos** (Estructuras clave):
+
+  - *list*: Listas ordenadas y mutables (modificables), ej: [1, 2, "tres"].
+
+  - *tuple*: Secuencias ordenadas e inmutables (no se pueden cambiar una vez creadas), ej: (10, 20).
+
+  - *dict*: Diccionarios basados en pares clave-valor (tablas hash extremadamente optimizadas), ej: {"nombre": "Ana", "edad": 25}.
+
+  - *set*: Colecciones desordenadas de elementos únicos, ideales para operaciones matemáticas de conjuntos.
+ 
