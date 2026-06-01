@@ -90,3 +90,5 @@ Su curva de aprendizaje suave lo convierte en el primer lenguaje ideal en escuel
 
 | Ventajas | Desventajas |
 | :------: | :------: |
+| Curva de aprendizaje suave: Sintaxis limpia y legible | Velocidad de ejecución: Más lento que lenguajes compilados como C, C++ o Rust |
+| Productividad gigantesca: Haces en 5 líneas de Python lo que en Java tomaría 20 | Consumo de memoria: El tipado dinámico y la gestión automática requieren más recursos |
