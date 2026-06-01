@@ -86,3 +86,7 @@ Permite construir plataformas estables, seguras y escalables con rapidez.
 
 Su curva de aprendizaje suave lo convierte en el primer lenguaje ideal en escuelas y universidades. Además, en disciplinas como la física, la química o la biología computacional, los investigadores lo eligen para modelar simulaciones científicas sin necesidad de ser ingenieros de software expertos.
 
+## Ventajas y Limitaciones.
+
+| Ventajas | Desventajas |
+| :------: | :------: |
