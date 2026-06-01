@@ -94,3 +94,7 @@ Su curva de aprendizaje suave lo convierte en el primer lenguaje ideal en escuel
 | *Productividad gigantesca*: Haces en 5 líneas de Python lo que en Java tomaría 20 | *Consumo de memoria*: El tipado dinámico y la gestión automática requieren más recursos |
 | *Comunidad masiva*: Millones de desarrolladores, foros, tutoriales y soporte técnico global | *Desarrollo Móvil*: Prácticamente inexistente en Android/iOS en comparación con Kotlin, Swift o Flutter |
 | *Integración*: Se conecta de forma excelente con componentes escritos en otros lenguajes (C/C++) | *El GIL (Global Interpreter Lock)*: Limita la verdadera ejecución multihilo nativa en la CPU (aunque se mitiga con multiprocesamiento o versiones modernas de Python) |
+
+## Conclusión.
+
+Python no es solo un lenguaje de programación; es un estándar de facto en la era de los datos y la inteligencia artificial. Su diseño centrado en el ser humano (priorizando el tiempo del programador sobre el tiempo de ejecución de la máquina) ha demostrado ser una de las decisiones de ingeniería de software más acertadas de la historia. Ya sea para escribir un script de tres líneas que organice tus carpetas o para entrenar el próximo gran modelo de lenguaje de IA, Python ofrece las herramientas, la flexibilidad y el soporte comunitario para lograrlo.
