@@ -12,3 +12,11 @@ La Fase de Principiante está diseñada como el cimiento fundamental de todo cam
 # Comentarios en Python.
 
 Los comentarios son una de las herramientas más importantes en la programación. Son **anotaciones en texto** plano que incluyes dentro del código para explicar cómo funciona, detallar el porqué de una decisión de diseño o dejar recordatorios. Lo más importante que debes saber es que el **intérprete de Python ignora por completo los comentarios** al ejecutar el programa; están ahí exclusivamente para los seres humanos (tú mismo en el futuro o tus compañeros de equipo). En Python existen diferentes formas de estructurar y utilizar los comentarios:
+
+## 1. Comentarios de una sola línea (#).
+
+Es la forma más común. Se utiliza el **símbolo de almohadilla o numeral (#)**. Todo lo que escribas a la derecha de este símbolo en la misma línea será tratado como un comentario.
+
+'''Python{
+# Esto es un comentario de una sola línea.
+}
