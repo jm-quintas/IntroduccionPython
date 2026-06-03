@@ -45,3 +45,19 @@ En Python, los objetos se dividen en dos grandes categorías según su estructur
 
   - **No Escalares**: Es una entidad que se **puede descomponer en partes más pequeñas**, contiene múltiples elementos internamente y, por lo general, te **permite interactuar** con su contenido mediante bucles o índices. Ejemplos: listas, tuplas, cadenas de textos, diccionarios, conjuntos.
 
+## Palabras Clave (Keywords): Las verdaderas "Reservadas".
+
+Estas palabras **son los pilares del lenguaje**. Python las necesita para entender la estructura de tu código. Si intentas registrar una variable con cualquiera de estos nombres, el programa se detendrá inmediatamente con un error de sintaxis. Algunas de las más comunes divididas por su uso son:
+
+  - **Control de flujo**: if, elif, else, for, while, break, continue, pass, return.
+
+  - **Lógica y Booleanos**: True, False, None, and, or, not, in, is.
+
+  - **Definiciones**: def (para funciones), class (para clases), lambda (funciones anónimas).
+
+  - **Manejo de excepciones**: try, except, finally, raise, assert.
+
+  - **Módulos**: import, from, as.
+
+
+
