@@ -8,5 +8,5 @@
 | Unidad | Programa | Repositorio |  
 | :----: | :----: | :----: |
 | 1 | Introducción| [Repositorio](Introducción.md) |  
-| 2 | Visión general del Hardware | [Repositorio](Visión general del Hardware.md) |
+| 2 | Visión general del Hardware | [Repositorio](VisiónGeneralHardware.md) |
 | 3 | Elementos de Python | [Repositorio](ElementosPython.md)|
