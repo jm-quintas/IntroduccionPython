@@ -35,3 +35,4 @@ Python te da herramientas para "espiar" dentro de cualquier objeto:
 
   - **dir(objeto)**: Te muestra una lista de todos los atributos y métodos que tiene disponibles.
 
+**Dato curioso**: Cuando haces algo tan simple como ```Python x = 5 ``` , Python no solo guarda el número 5. Crea un objeto de la clase int que tiene un montón de métodos ocultos detrás de escena.
