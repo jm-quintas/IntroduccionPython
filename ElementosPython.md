@@ -71,3 +71,11 @@ Python es un lenguaje orientado a objetos. Permite modelar el mundo real mediant
 
   - **Atributos y Métodos**: Las variables y funciones internas del objeto.
 
+## 8. Módulos y Librerías.
+
+No tienes que reinventar la rueda. Python permite importar código externo usando la palabra clave **import**.
+
+  - **Biblioteca estándar**: Incluye módulos nativos como **math**, **datetime** o **random**.
+
+  - **Ecosistema externo**: Herramientas que instalas (vía *pip*) como **Pandas** (datos), **Django** (web) o **NumPy** (ciencia).
+
