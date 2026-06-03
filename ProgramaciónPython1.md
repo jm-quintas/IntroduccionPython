@@ -24,3 +24,14 @@ En Python, los objetos se dividen en dos grandes categorías según si se pueden
 | :-------: | :-------: | :-------: |
 | Inmutables | No. Si cambias su valor, Python crea un objeto nuevo en memoria | **int**, **float**, **str**, **tuple**, **bool** |
 | Mutables | Sí. Se pueden modificar directamente sus elementos internos sin cambiar su identidad | **list**, **dict**, **set** |
+
+### 4. Tres funciones clave para investigar objetos.
+
+Python te da herramientas para "espiar" dentro de cualquier objeto:
+
+  - **type(objeto)**: Te dice a qué clase pertenece.
+
+  - **id(objeto)**: Te da el identificador único (la dirección de memoria) del objeto.
+
+  - **dir(objeto)**: Te muestra una lista de todos los atributos y métodos que tiene disponibles.
+
