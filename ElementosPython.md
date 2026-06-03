@@ -37,7 +37,7 @@ Python tiene formas nativas muy potentes para agrupar datos:
 
 Permiten manipular los datos:
 
-  - **Aritméticos**: +, -, *, /, % (módulo),  (potencia), // (división entera).
+  - **Aritméticos**: +, -, *, /, % (módulo), ** (potencia), // (división entera).
 
   - **Comparación**: == (igual a), != (diferente de), >, <, >=, <=.
 
