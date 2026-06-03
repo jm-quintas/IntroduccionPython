@@ -15,3 +15,10 @@ Si comparamos un objeto con un automóvil del mundo real:
 ### 2. Clases: El "molde" de los objetos.
 
 Para crear tus propios objetos, primero necesitas definir una Clase (class). La **clase es el plano arquitectónico o molde**, y el objeto es la casa real construida con ese molde (a esto se le llama instancia).
+
+### 3. Objetos Mutables vs. Inmutables.
+
+En Python, los objetos se dividen en dos grandes categorías según si se pueden modificar después de ser creados:
+
+| Tipos de Objetos | ¿Se puede modificar? (Mutabilidad) | Ejemplos |
+| :-------: | :-------: | :-------: |
