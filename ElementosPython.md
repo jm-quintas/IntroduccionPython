@@ -49,5 +49,14 @@ Deciden qué camino toma el código según las condiciones:
 
 ### Condicionales.
 
-Utiliza if, elif (else if), y else.
+Utiliza **if**, **elif** (**else if**), y **else**.
 
+### Bucles (Loops).
+
+  - **for**: Ideal para iterar sobre una colección o un rango numérico (**range()**).
+
+  - **while**: Se ejecuta mientras una condición sea verdadera.
+
+## 6. Funciones (def).
+
+Bloques de código reutilizables que realizan una tarea específica. Pueden recibir parámetros y devolver valores usando **return**.
