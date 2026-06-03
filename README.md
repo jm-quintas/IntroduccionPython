@@ -1,9 +1,9 @@
-# Introducción a la ciencia computacional y programación en Python.
+# Introducción a la Ciencia Computacional y programación en Python.
 
 ![](https://github.com/jm-quintas/PythonforEverybody/blob/main/University_of_Michigan_Logo.png)
 
-- **Especialización en programación en Python**.
-- Profesor: **Dr. Charles Russell Severance**.
+- **MIT OpenCourseWare**.
+- Profesor: **Dr. Anna Bell**.
 
 | Unidad | Programa | Repositorio |  
 | :----: | :----: | :----: |
