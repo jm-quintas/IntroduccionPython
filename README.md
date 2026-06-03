@@ -1,4 +1,4 @@
-# Introducción a la Ciencia Computacional y programación en Python.
+# Introducción a la Ciencia Computacional y Programación en Python.
 
 ![]()
 
