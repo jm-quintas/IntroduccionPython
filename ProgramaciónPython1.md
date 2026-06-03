@@ -63,9 +63,9 @@ Estas palabras **son los pilares del lenguaje**. Python las necesita para entend
 
 A diferencia de las palabras clave, estas sí son funciones. Python las carga automáticamente en memoria al iniciar el programa para que no tengas que importar ninguna librería para tareas cotidianas. **Hay más de 70 funciones integradas**. Estas son algunas de las que probablemente uses a diario:
 
-  - **Para interactuar**: print(), input().
+  - **Para interactuar**: print( ), input( ).
 
-  - **Para conversión de tipos**: int(), str(), float(), list(), dict(), tuple().
+  - **Para conversión de tipos**: int( ), str( ), float( ), list( ), dict( ), tuple( ).
 
-  - **Para inspección y matemáticas**: len(), type(), range(), sum(), max(), min(), abs().
+  - **Para inspección y matemáticas**: len( ), type( ), range( ), sum( ), max( ), min( ), abs( ).
 
