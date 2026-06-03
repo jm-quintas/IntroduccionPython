@@ -32,3 +32,14 @@ Python tiene formas nativas muy potentes para agrupar datos:
 | Tuplas | ( ) | Ordenadas e inmutables (no se pueden cambiar) | (10, 20) |
 | Diccionarios | { } | Pares de clave: valor, sin orden sintáctico | {"nombre" : "Ana", "edad" : 25} |
 | Conjuntos (Sets) | { } | Elementos únicos y sin orden | {1, 2, 3} |
+
+## 4. Operadores.
+
+Permiten manipular los datos:
+
+  - **Aritméticos**: +, -, *, /, % (módulo),  (potencia), // (división entera).
+
+  - **Comparación**: == (igual a), != (diferente de), >, <, >=, <=.
+
+  - **Lógicos**: and, or, not.
+
