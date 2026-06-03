@@ -20,3 +20,9 @@ Es la forma más común. Se utiliza el **símbolo de almohadilla o numeral (#)**
 ```Python
 # Esto es un comentario de una sola línea.
 ``` 
+
+Se pueden usar de dos formas:
+
+  - **En su propia línea**: Ideales para explicar bloques de código complejos justo antes de que ocurran.
+  - **En la misma línea del código (Inline comments)**: Se colocan al final de una instrucción. Se recomienda dejar al menos dos espacios de separación después del código para mantener la legibilidad.
+
