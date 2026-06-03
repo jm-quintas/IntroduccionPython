@@ -79,3 +79,4 @@ No tienes que reinventar la rueda. Python permite importar código externo usand
 
   - **Ecosistema externo**: Herramientas que instalas (vía *pip*) como **Pandas** (datos), **Django** (web) o **NumPy** (ciencia).
 
+**Dato clave**: La filosofía de Python se resume en *"Lo bonito es mejor que lo feo"* y *"Lo explícito es mejor que lo implícito"*. Es lo que se conoce como el Zen de Python.
