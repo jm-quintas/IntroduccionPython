@@ -1,4 +1,4 @@
-# Python for Everybody.
+# Introducción a la ciencia computacional y programación en Python.
 
 ![](https://github.com/jm-quintas/PythonforEverybody/blob/main/University_of_Michigan_Logo.png)
 
