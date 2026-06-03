@@ -22,3 +22,6 @@ Son los ladrillos básicos de información:
 
   - **Booleanos (bool)**: Solo pueden ser *True* o *False*.
 
+## 3. Estructuras de Datos (Colecciones).
+
+Python tiene formas nativas muy potentes para agrupar datos:
