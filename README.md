@@ -1,6 +1,6 @@
 # Introducción a la Ciencia Computacional y Programación en Python.
 
-![]()
+![](https://github.com/jm-quintas/IntroduccionPython/blob/main/MIT.png)
 
 - **MIT OpenCourseWare**.
 - Profesor: **Dr. Anna Bell**.
