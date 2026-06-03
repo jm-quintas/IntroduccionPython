@@ -60,3 +60,14 @@ Utiliza **if**, **elif** (**else if**), y **else**.
 ## 6. Funciones (def).
 
 Bloques de código reutilizables que realizan una tarea específica. Pueden recibir parámetros y devolver valores usando **return**.
+
+## 7. Programación Orientada a Objetos (POO)
+
+Python es un lenguaje orientado a objetos. Permite modelar el mundo real mediante:
+
+  - **Clases (class)**: El "molde" para crear objetos.
+
+  - **Objetos**: Las instancias creadas a partir de la clase.
+
+  - **Atributos y Métodos**: Las variables y funciones internas del objeto.
+
