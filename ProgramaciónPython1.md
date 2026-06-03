@@ -43,4 +43,5 @@ En Python, los objetos se dividen en dos grandes categorías según su estructur
 
   - **Escalares**: Es aquel que representa un **valor único y atómico**. Es decir, es la *unidad más básica de información* y no contiene otros objetos dentro de sí mismo. **No puedes descomponerlo ni iterar** a través de él con un bucle. En Python, todos los objetos escalares básicos son además *inmutables* (no se pueden modificar una vez creados). Ejemplos: enteros, flotantes, booleano, None.
 
-  - **No Escalares**: Es una entidad que se **puede descomponer en partes más pequeñas**, contiene múltiples elementos internamente y, por lo general, te **permite interactuar** con su contenido mediante bucles o índices.
+  - **No Escalares**: Es una entidad que se **puede descomponer en partes más pequeñas**, contiene múltiples elementos internamente y, por lo general, te **permite interactuar** con su contenido mediante bucles o índices. Ejemplos: listas, tuplas, cadenas de textos, diccionarios, conjuntos.
+
