@@ -38,8 +38,16 @@ Python tiene formas nativas muy potentes para agrupar datos:
 Permiten manipular los datos:
 
   - **Aritméticos**: +, -, *, /, % (módulo), ** (potencia), // (división entera).
-
+  
   - **Comparación**: == (igual a), != (diferente de), >, <, >=, <=.
 
   - **Lógicos**: and, or, not.
+
+## 5. Control de Flujo.
+
+Deciden qué camino toma el código según las condiciones:
+
+### Condicionales.
+
+Utiliza if, elif (else if), y else.
 
