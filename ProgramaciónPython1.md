@@ -11,3 +11,7 @@ Si comparamos un objeto con un automóvil del mundo real:
   - **Atributos (Datos)**: Son las *variables internas* del objeto. (Ejemplo: el color o marca).
 
   - **Métodos (Funciones)**: Son funciones que pertenecen al objeto y *definen lo que puede hacer*. (Ejemplo: acelerar, frenar o encender luces).
+
+### 2. Clases: El "molde" de los objetos.
+
+Para crear tus propios objetos, primero necesitas definir una Clase (class). La **clase es el plano arquitectónico o molde**, y el objeto es la casa real construida con ese molde (a esto se le llama instancia).
