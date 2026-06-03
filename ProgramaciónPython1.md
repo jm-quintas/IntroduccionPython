@@ -22,3 +22,4 @@ En Python, los objetos se dividen en dos grandes categorías según si se pueden
 
 | Tipos de Objetos | ¿Se puede modificar? (Mutabilidad) | Ejemplos |
 | :-------: | :-------: | :-------: |
+| Inmutables | No. Si cambias su valor, Python crea un objeto nuevo en memoria | **int**, **float**, **str**, **tuple**, **bool** |
