@@ -26,3 +26,11 @@ Se pueden usar de dos formas:
   - **En su propia línea**: Ideales para explicar bloques de código complejos justo antes de que ocurran.
   - **En la misma línea del código (Inline comments)**: Se colocan al final de una instrucción. Se recomienda dejar al menos dos espacios de separación después del código para mantener la legibilidad.
 
+## 2. Comentarios multilínea o de bloque.
+
+Si colocas un texto entre triples comillas (""" o ''') y no lo asignas a ninguna variable, Python lo leerá pero lo descartará inmediatamente al ejecutarlo.
+
+```Python
+''' Hola esto es un comentario
+multilínea en Python.
+``` 
