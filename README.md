@@ -1,6 +1,6 @@
 # Introducción a la Ciencia Computacional y programación en Python.
 
-![](https://github.com/jm-quintas/PythonforEverybody/blob/main/University_of_Michigan_Logo.png)
+![]()
 
 - **MIT OpenCourseWare**.
 - Profesor: **Dr. Anna Bell**.
