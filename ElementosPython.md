@@ -31,4 +31,4 @@ Python tiene formas nativas muy potentes para agrupar datos:
 | Listas | [ ] | Ordenadas y modificables (mutables) | ['manzana', 'banana'] |
 | Tuplas | ( ) | Ordenadas e inmutables (no se pueden cambiar) | (10, 20) |
 | Diccionarios | { } | Pares de clave: valor, sin orden sintáctico | {"nombre" : "Ana", "edad" : 25} |
-Conjuntos (Sets),{},Elementos únicos y sin orden.,"{1, 2, 3}"
+| Conjuntos (Sets) | { } | Elementos únicos y sin orden | {1, 2, 3} |
