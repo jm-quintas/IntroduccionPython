@@ -17,6 +17,6 @@ Los comentarios son una de las herramientas más importantes en la programación
 
 Es la forma más común. Se utiliza el **símbolo de almohadilla o numeral (#)**. Todo lo que escribas a la derecha de este símbolo en la misma línea será tratado como un comentario.
 
-´´Python
+'''Python
 # Esto es un comentario de una sola línea.
-´´
+'''
