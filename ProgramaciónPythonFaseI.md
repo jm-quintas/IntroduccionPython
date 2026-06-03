@@ -31,6 +31,6 @@ Se pueden usar de dos formas:
 Si colocas un texto entre triples comillas (""" o ''') y no lo asignas a ninguna variable, Python lo leerá pero lo descartará inmediatamente al ejecutarlo.
 
 ```Python
-''' Hola esto es un comentario
+Hola esto es un comentario
 multilínea en Python.
 ``` 
